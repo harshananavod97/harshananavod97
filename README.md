@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [Play Pointz]  (https://play.google.com/store/apps/details?id=com.avanux.playpointz&hl=en&gl=US)
 - 🔭 My Devoloped Projects
--    [Technology අපි] (https://play.google.com/store/apps/details?id=vn.hunghd.example&pli=1)
--    [ICT අපි]        (https://play.google.com/store/apps/details?id=com.ictapi.newpackagename)
+-    [Digital Education] (https://play.google.com/store/apps/details?id=com.harshana.digitaleducation)
+-    [Play pointz]        (https://play.google.com/store/apps/details?id=com.avanux.playpointz&hl=en&gl=US)
 -    [UOV]            (https://play.google.com/store/apps/details?id=com.uov.app.name)
 -    [Agri අපි]            (https://play.google.com/store/apps/details?id=com.agriapi.newappname)
 
